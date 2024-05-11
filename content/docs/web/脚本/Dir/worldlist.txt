@@ -1,0 +1,10 @@
+index.php
+flag.php
+robots.txt
+login.php
+profile.php
+source.php
+phpinfo.php
+test.php
+register.php
+%3f
