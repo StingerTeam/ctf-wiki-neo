@@ -27,8 +27,6 @@
       - 不执行
         - Not Vulnerable
 
-![Alt text](../images/SSTI/image.png)
-
 ## Flask
 
 Flask 模板注入漏洞是一种安全漏洞，它涉及到使用 Flask 框架的 Web 应用程序中的模板引擎，通常是 Jinja2。这种漏洞允许攻击者通过精心构造的输入来注入恶意模板代码，从而可能导致潜在的安全问题，例如数据泄露、远程代码执行等。这是一种典型的服务器端模板注入（Server-Side Template Injection，SSTI）漏洞。
