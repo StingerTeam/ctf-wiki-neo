@@ -2,8 +2,6 @@
 
 <https://blog.csdn.net/solitudi/article/details/107752717>
 
-![Alt text](../images/SSTI/image-1.png)
-
 ## 判断模板类型
 
 - `${7*7}`
